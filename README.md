@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ecuG&operationContext=DELIVERY&contentId=05T8e00000Mussu&page=0&d=/a/8e000000LCYt/3UzeSvrPjO1j9FXE_tl4UvPErkeSag_S9bd35bNzgoA&oid=00D8e000000eCZm&dpt=null&viewId=">
 
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
-<img align="left" alt="Coding" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ekCy&operationContext=DELIVERY&contentId=05T8e00000MvDFe&page=0&d=/a/8e000000LCaV/zbkwTZuV0EV7u93MPPpJQO9BfpyNjQtuTbqiR2PRsds&oid=00D8e000000eCZm&dpt=null&viewId=" style="float: left; margin-right: 20px;">
+<img align="left" width="11%"alt="Coding" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ekCy&operationContext=DELIVERY&contentId=05T8e00000MvDFe&page=0&d=/a/8e000000LCaV/zbkwTZuV0EV7u93MPPpJQO9BfpyNjQtuTbqiR2PRsds&oid=00D8e000000eCZm&dpt=null&viewId=" style="float: left; margin-right: 20px;">
 
 
 <div  style="margin-left: 20%;">
