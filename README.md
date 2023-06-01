@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
-<img align="right" alt="Coding" padding-left="500%" src="https://bgr.com/wp-content/uploads/2016/12/ezgif-com-f278563c07.gif?w=780&h=574&crop=1">
+<img align="right" alt="Coding" padding-left="500%" src="https://image.pngaaa.com/391/5927391-small.png">
 <div width="500">
 - 📫 How to reach me **uaggati@gmail.com**
 
