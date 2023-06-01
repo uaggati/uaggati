@@ -6,7 +6,7 @@
 <div style="clear: both;"></div>
 
 
-<div width="500">
+<div  style="margin-left: 20%;">
   - 📫 How to reach me **uaggati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
