@@ -1,7 +1,7 @@
 <img align="top" alt="Coding" width="1500" src="https://images.squarespace-cdn.com/content/v1/5c121a80e17ba3444bdbe3fc/1570680974693-FJYQ35WNAPP8F3M02QSS/Darkgrey+1500x100.png">
 <h1 align="center">Hi 👋, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
-<img align="right" alt="Coding" padding-left="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif">
+<img align="right" alt="Coding" padding-left="500%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif">
 <div width="500">
 - 📫 How to reach me **uaggati@gmail.com**
 
