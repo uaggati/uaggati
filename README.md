@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achref Naggati</h1>
-<h3 align="center">A passionate frontend Salesforce Developer from Tunisia</h3>
+<h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
 
 - 📫 How to reach me **uaggati@gmail.com**
 
