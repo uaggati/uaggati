@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Achref Naggati</h1>
-<img align="right" Width="70%" alt="Coding" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ecuG&operationContext=DELIVERY&contentId=05T8e00000Mussu&page=0&d=/a/8e000000LCYt/3UzeSvrPjO1j9FXE_tl4UvPErkeSag_S9bd35bNzgoA&oid=00D8e000000eCZm&dpt=null&viewId=">
+<img align="right" alt="Coding" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ecuG&operationContext=DELIVERY&contentId=05T8e00000Mussu&page=0&d=/a/8e000000LCYt/3UzeSvrPjO1j9FXE_tl4UvPErkeSag_S9bd35bNzgoA&oid=00D8e000000eCZm&dpt=null&viewId=">
 
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
 <img align="left" alt="Coding" width="40%" padding-left="500%" src="https://goldstar-c-dev-ed.develop.file.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0688e000008ecg0&operationContext=DELIVERY&contentId=05T8e00000Mus6v&page=0&d=/a/8e000000LCYZ/67fZpbk5WOH7nzNYGbSPdWs4r1FY9l5K27PMYqpPsMQ&oid=00D8e000000eCZm&dpt=null&viewId=">
