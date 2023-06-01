@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achref Naggati</h1>
+<h1 align="center">Hi, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
 <img align="right" alt="Coding" padding-left="500%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif">
 <div width="500">
