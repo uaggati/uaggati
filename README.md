@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="10%" padding-left="500%" src="https://img.freepik.com/free-photo/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.jpg?w=1380&t=st=1685621988~exp=1685622588~hmac=c52079c0da355459d2f0d974663d88264316a9dcd116f903b1755b5b1eb41e06">
+<img align="right" alt="Coding" width="40%" padding-left="500%" src="https://img.freepik.com/free-photo/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.jpg?w=1380&t=st=1685621988~exp=1685622588~hmac=c52079c0da355459d2f0d974663d88264316a9dcd116f903b1755b5b1eb41e06">
 <div width="500">
 - 📫 How to reach me **uaggati@gmail.com**
 
