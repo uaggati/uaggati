@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="1500" src="https://media.licdn.com/dms/image/D4D16AQGGbEeGFvjBtQ/profile-displaybackgroundimage-shrink_350_1400/0/1683104394240?e=1691020800&v=beta&t=CVWES1tc90RZ8-cvdu7oSuObmK4r7FOSsiVI5Wjrkrk">
+<img align="top" alt="Coding" width="1500" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAAoCAMAAAAVBXQGAAAAA1BMVEVCAR9Ad1jAAAAALklEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAxd6AABBCWAZQAAAABJRU5ErkJggg==">
 <h1 align="center">Hi 👋, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/279645/screenshots/2853791/media/4b636fcb37d7b0be15f847270b45e917.gif">
