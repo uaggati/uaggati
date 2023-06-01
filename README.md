@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Achref Naggati</h1>
 <h3 align="center">A passionate Salesforce Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="40%" padding-left="500%" src="https://hubblesite.org/files/live/sites/hubble/files/home/_images/videos-img.jpg?t=tn370">
+<img align="right" alt="Coding" width="40%" padding-left="500%" src="https://w7.pngwing.com/pngs/698/929/png-transparent-b-c-rich-warlock-electric-guitar-floyd-rose-art-electric-guitar-guitar-accessory-electricity-string-instrument-thumbnail.png">
 <div width="500">
 - 📫 How to reach me **uaggati@gmail.com**
 
